@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day1/Day1.iml" filepath="$PROJECT_DIR$/Day1/Day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2/Day2.iml" filepath="$PROJECT_DIR$/Day2/Day2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2023.iml" filepath="$PROJECT_DIR$/Java_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Self Learning Java/Self Learning Java.iml" filepath="$PROJECT_DIR$/Self Learning Java/Self Learning Java.iml" />
     </modules>
   </component>
 </project>
